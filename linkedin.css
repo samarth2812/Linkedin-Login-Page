@@ -11,13 +11,12 @@
     height:100%;
     width: 100%;
     z-index: -1;
-    opacity: 2;
     background:url("../sde.jpg")no-repeat center center/cover;
 } 
 
 .container{
     width: 320px;
-    height: 480px;
+    height: 574px;
     background: #fff;
     box-shadow: 0 10px 15px rgba(179,179,179,.7);
     position: absolute;
